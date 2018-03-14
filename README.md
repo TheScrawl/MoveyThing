@@ -6,6 +6,7 @@ python test for "moving" a character around a grid using coordinates
 ### Changelog
 2.1
 * Added Support for linux using getsh module
+
 2.0
 * Reads keypresses instantly
 * Clears the screen after moving
